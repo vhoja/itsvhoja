@@ -1,4 +1,4 @@
-# vhoja
+# volker hoja
 ### Hey, I'm Volker! 👋
 
 I'm passionate about making AI accessible to product people, helping underrepresented folks thrive in tech. I've keynoted alongside tech CEOs, reached 10M+ developers globally, and created frameworks that help developers turn their expertise into career acceleration. I currently work at Telebot as a Product Management Advocate.
