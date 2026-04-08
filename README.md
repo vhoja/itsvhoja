@@ -22,11 +22,7 @@ const kedasha = {
   teaching: ["Vibe Coding", "C.O.D.E. Framework", "AI Integration"]
 }
 ```
-  
-![workshop_1](https://github.com/user-attachments/assets/ea0f9beb-7f9c-4106-8742-95eb2d72404a)
-  
 
-<img align="left" width="150" height="150" src="https://github.com/LadyKerr/LadyKerr/blob/main/assets/octokadie.png" alt="kedasha's instagram page @itsthatladydev">
 
 🌟 **Let's Connect!**
 
